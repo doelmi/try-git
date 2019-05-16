@@ -1,3 +1,3 @@
 # try-git
 
-Ini adalah perubahan pertama.
+Ini adalah perubahan kedua.
